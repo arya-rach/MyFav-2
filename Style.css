@@ -1,0 +1,13 @@
+body{
+   background-image: linear-gradient(orange, white, green);
+  text-align: center;
+}
+#img1{
+  border-radius: 56%;
+  margin: 31px;
+  height: 200px;
+}
+li{
+ color: red;
+    text-align: right;
+}
